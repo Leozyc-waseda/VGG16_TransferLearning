@@ -20,3 +20,19 @@ train loss 趋于不变，test loss趋于不变，说明学习遇到瓶颈，需
 
 train loss 不断上升，test loss不断上升，说明网络结构设计不当，训练超参数设置不当，数据集经过清洗等问题。
 
+
+
+# Environment
+My environment is based on
+
+ubuntu16.04 LTS
+Memory: 15.6GiB
+Processor: Intel® Core™ i7-7700 CPU @ 3.60GHz × 8 
+Graphics:GeForce GTX 1070 Ti/PCIe/SSE2
+OS type：64-bit
+Disk:475.3GB
+
+NVIDIA-SMI 440.33.01    
+Driver Version: 440.33.01    
+CUDA Version: 10.2
+
