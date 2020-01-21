@@ -26,10 +26,15 @@ train loss 不断上升，test loss不断上升，说明网络结构设计不当
 My environment is based on
 
 ubuntu16.04 LTS
+
 Memory: 15.6GiB
+
 Processor: Intel® Core™ i7-7700 CPU @ 3.60GHz × 8 
+
 Graphics:GeForce GTX 1070 Ti/PCIe/SSE2
+
 OS type：64-bit
+
 Disk:475.3GB
 
 NVIDIA-SMI 440.33.01    
