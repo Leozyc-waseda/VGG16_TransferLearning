@@ -5,7 +5,7 @@
 2.result figure:
 
 # How to do 
-1.use import_small_dataset.py to spilt data to trab_new , validation , test files.
+1.use import_small_dataset.py to spilt data to train_new , validation , test files.
 2.Then run extract_features.py
 
 
